@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Copyright (C) 2015 Redjan Shabani
+
+This program is free software; you can redistribute it and/or
+modify it under the terms of the GNU General Public License
+as published by the Free Software Foundation; either version 2
+of the License, or (at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program; if not, write to the Free Software
+Foundation, Inc., 59 Temple Place - Suite 330, Boston, MA  02111-1307, USA.
+-->
+
+<!DOCTYPE dataset PUBLIC 'system' 'dataset.dtd'>
+
+<dataset date='20150703'>
+    <calculator seats='12' coalTh='0'  partyTh='0' indivTh='0' method='DHONDT'/>
+    <subject category='PARTY' name='PKD' votes='2341'/>
+    <subject category='PARTY' name='PSD' votes='3852'/>
+    <subject category='PARTY' name='AEE' votes='1675'/>
+    <subject category='PARTY' name='PBDNJ' votes='1297'/>
+    <subject category='COALITION' name='APPD' votes='130769'/>
+    <subject category='COALITION' name='ASHE' votes='253016'/>
+    <subject category='PARTY' name='LDVMP' votes='962'/>
+    <subject category='PARTY' name='AP' votes='769'/>
+</dataset>
