@@ -1,0 +1,2 @@
+# seats-calulator
+Seats Calculator
